@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"view",
+				"viewportHeight"
+			],
+			[
+				"ver",
+				"vertexPositionAttribute"
+			],
+			[
+				"vertex",
+				"vertexAttribPointer"
+			],
+			[
+				"Mov",
+				"MovementComponent"
+			],
+			[
+				"Movem",
+				"MovementComponent"
+			],
+			[
+				"Move",
+				"MovementInput"
+			],
+			[
+				"roll",
+				"rollInputView"
+			],
+			[
+				"Movement",
+				"movementInput"
+			],
+			[
+				"cent",
+				"centerHeight"
+			],
+			[
+				"cen",
+				"centerWidth"
+			],
+			[
+				"random",
+				"randomfile2"
+			],
+			[
+				"num",
+				"numberOfMatches"
+			],
+			[
+				"randomSLoIn",
+				"randomSlotIndexRow"
+			],
+			[
+				"nu",
+				"numberOfMatches"
+			],
+			[
+				"BOARD",
+				"BOARD_HEIGHT"
+			],
+			[
+				"neu",
+				"neuron"
+			],
+			[
+				"cl",
+				"Clamp(float value, float min, float max)	float"
+			],
+			[
+				"GetCOm",
+				"GetComponent<T>()	T"
+			],
+			[
+				"hit",
+				"hitGround	bool"
+			],
+			[
+				"_",
+				"_charController	CharacterController"
+			],
+			[
+				"Vec",
+				"Vector3	Vector3"
+			],
+			[
+				"move",
+				"movement	Vector3"
+			],
+			[
+				"GetBut",
+				"GetButtonDown(string buttonName)	bool"
+			],
+			[
+				"Ve",
+				"Vector3	Vector3"
+			],
+			[
+				"rot",
+				"_rotY	float"
+			],
+			[
+				"_ene",
+				"_enemySpeed	float"
+			],
+			[
+				"Bro",
+				"Broadcast(string eventType)	void"
+			],
+			[
+				"Even",
+				"EventSystems	EventSystems"
+			],
+			[
+				"Inst",
+				"Instantiate(Object original)	Object"
+			],
+			[
+				"IE",
+				"IEnumerator	IEnumerator"
+			],
+			[
+				"Cur",
+				"CursorLockMode	CursorLockMode"
+			],
+			[
+				"Tran",
+				"TransformDirection(Vector3 direction)	Vector3"
+			],
+			[
+				"Vect",
+				"Vector3(float x, float y, float z)	Vector3(float x, float y, float z)"
+			],
+			[
+				"GetCom",
+				"GetComponent<T>()	T"
+			],
+			[
+				"sensi",
+				"sensitivityHor	float"
+			],
+			[
+				"sensit",
+				"sensitivityVert	float"
+			],
+			[
+				"sens",
+				"sensitivityVert	float"
+			],
+			[
+				"Mose",
+				"MouseY	RotationAxes"
+			],
+			[
+				"Mou",
+				"MouseXAndY	RotationAxes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "LearningWebGLDotCom/index.html",
+			"settings":
+			{
+				"buffer_size": 375,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "LearningWebGLDotCom/lesson1.js",
+			"settings":
+			{
+				"buffer_size": 2336,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 88.0,
+		"last_filter": "Package Control: list",
+		"selected_items":
+		[
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/WebGLStudy",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom"
+	],
+	"file_history":
+	[
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/glMatrix-0.9.5.min.js",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/onloadHelper.js",
+		"/C/Projects/Devkit/Rolling/src/entity/GameObject.js",
+		"/C/Projects/Devkit/Rolling/src/entity/Square.js",
+		"/C/Projects/Devkit/Rolling/src/entity/Player.js",
+		"/C/Projects/Devkit/Rolling/src/input/Input.js",
+		"/C/Projects/ExpressJSTutorial/package.json",
+		"/C/Projects/ReduxTutorial/package.json",
+		"/C/Projects/ExpressJSTutorial/expresstut.js",
+		"/C/Projects/ReduxTutorial/dev/js/components/App.js",
+		"/C/Projects/ReduxTutorial/dev/js/reducers/index.js",
+		"/C/Projects/ReduxTutorial/src/index.html",
+		"/C/Projects/ExpressJSTutorial/views/error.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/file-upload.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/thankyou.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/contact.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/layouts/main.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/partials/bsnavbar.handlebars",
+		"/C/Users/DK/AppData/Local/Temp/Temp1_expresstut.zip/expresstut/views/partials/bsnavbar.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/partials/head.handlebars",
+		"/C/Users/DK/AppData/Local/Temp/Temp1_expresstut.zip/expresstut/views/partials/head.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/about.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/home.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/500.handlebars",
+		"/C/Projects/ExpressJSTutorial/views/404.handlebars",
+		"/C/Projects/ExpressJSTutorial/.gitignore",
+		"/C/Google Drive/Test/gemgame/src/Slot.js",
+		"/C/Google Drive/Test/gemgame/src/GameScreen.js",
+		"/C/Google Drive/Test/gemgame/src/Application.js",
+		"/C/Users/DK/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/DK/AppData/Roaming/Sublime Text 3/Packages/Tomorrow-Night-Eighties Custom.tmTheme",
+		"/C/Users/DK/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter/Iridis Blue (SL).tmTheme",
+		"/C/Users/DK/AppData/Roaming/Sublime Text 3/Installed Packages/Tomorrow Color Schemes.sublime-package",
+		"/C/Google Drive/Test/gemgame/src/TitleScreen.js",
+		"/C/Google Drive/Test/gemgame/src/Board.js",
+		"/D/Steam/steamapps/common/Enter the Gungeon/EtG_Data/level0",
+		"/C/Google Drive/Test/helloworld2/src/Application.js",
+		"/C/Google Drive/Test/helloworld/manifest.json",
+		"/C/Google Drive/Test/helloworld/src/Application.js",
+		"/C/Users/DK/AppData/Roaming/Sublime Text 3/Packages/User/sublime_unicode_nbsp.py",
+		"/C/Users/DK/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - itg.flat.sublime-package",
+		"/C/Google Drive/Code Practice/CrackingTheCodingInterviewQA.py",
+		"/C/Projects/BizHawk/Lua/neatevolve.lua",
+		"/C/Users/DK/Desktop/New folder/Original Run/backup.0.DP1_1.state.pool",
+		"/C/Users/DK/Desktop/neatevolve.lua",
+		"/C/Projects/BizHawk/Lua/backup.27.DP1_1.state.pool",
+		"/C/Users/DK/AppData/Local/Temp/Temp1_EffectiveNavigation.zip/EffectiveNavigation/src/com/example/android/effectivenavigation/MainActivity.java",
+		"/C/Google Drive/University/4B W2016/ECE 457B/Assignments/ass3.py",
+		"/C/Users/DK/AppData/Local/Temp/Temp1_EffectiveNavigation.zip/EffectiveNavigation/src/com/example/android/effectivenavigation/CollectionDemoActivity.java",
+		"/C/Projects/EffectiveNavigation/src/com/example/android/effectivenavigation/MainActivity.java",
+		"/C/Projects/EffectiveNavigation/res/layout/activity_main.xml",
+		"/C/Projects/EffectiveNavigation/res/layout/activity_collection_demo.xml",
+		"/C/Projects/EffectiveNavigation/res/layout/fragment_section_dummy.xml",
+		"/C/Projects/EffectiveNavigation/res/layout/fragment_section_launchpad.xml",
+		"/C/Projects/EffectiveNavigation/res/layout/fragment_collection_object.xml",
+		"/C/Projects/EffectiveNavigation/AndroidManifest.xml",
+		"/C/Projects/Unity/UnityInAction/Chapter7/Assets/Scripts/RelativeMovement.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter7/Assets/Scripts/OrbitCamera.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter7/Chapter7.sublime-project",
+		"/C/Projects/Android/GrandpaGuardAndroid/GrandpaGuard/key/client_secret_324800885308-clnn1rb9uqk4tr34dog2m6nibbnk14b8.apps.googleusercontent.com.json",
+		"/C/Projects/Unity/UnityInAction/RelativeMovement.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Controllers/SceneController.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Controllers/UIController.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/UI/SettingsPopup.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Player/FPSInput.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Enemy/WanderingAI.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Player/RayShooter.cs",
+		"/C/Google Drive/University/4B W2016/ENGL 210F/request.txt",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Event/GameEvent.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Event/Messenger.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Player/PlayerCharacter.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter6/Assets/Scripts/Enemy/Fireball.cs",
+		"/C/Users/DK/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/C/Projects/Unity/UnityInAction/Chapter2/Assets/Scripts/Enemy/WanderingAI.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter2/Assets/Scripts/Player/RayShooter.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter2/Assets/Scripts/Enemy/ReactiveTarget.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter2/Assets/Scripts/Player/FPSInput.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter2/Assets/Scripts/Player/MouseLook.cs",
+		"/C/Projects/Unity/UnityInAction/Chapter2/Chapter2.sublime-project",
+		"/C/Projects/Unity/VoxelEngine/VoxelEngine.sublime-project",
+		"/C/Projects/Unity/VoxelEngine/Assets/Scripts/Chunk.cs",
+		"/C/Program Files/Unity/Editor/Data/Resources/ScriptTemplates/81-C# Script-NewBehaviourScript.cs.txt",
+		"/C/Users/DK/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files (x86)/Steam/steamapps/common/Fallout 4/Fallout4/Fallout4Prefs.ini",
+		"/C/Users/DK/Desktop/Torrent/Updates/03 - Illusion Special Member Bonus/お読み下さい.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/RPG Maker MV/dlc/KadokawaPlugins/NewItemScene.js",
+		"/C/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/config.cfg",
+		"/C/Users/DK/Desktop/Torrent/Updates/01 - Pre-order Bonus/Pre-order Bonus Hair/お読み下さい.txt",
+		"/C/Users/DK/Desktop/Torrent/Updates/02 - Tanabata Bonus/お読み下さい.txt",
+		"/C/Users/DK/Desktop/Torrent/Updates/01 - Pre-order Bonus/Cadet/お読み下さい.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/controller.cfg",
+		"/C/Projects/PlanetJumper/codeToShow.js",
+		"/C/Users/DK/AppData/Local/Temp/Temp1_omega-for-mumble.zip/README.md",
+		"/C/Users/DK/Downloads/vibranceGUI/readme.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 157.0,
+		"where_history":
+		[
+			"",
+			"Open files",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"movementcomponent",
+			"MovementComponent",
+			"movementcomponent",
+			"action",
+			"?",
+			"ffffff",
+			"F2777A",
+			"comboCounter",
+			"console",
+			"isboardvalid",
+			"isvalid",
+			"replaceMatchesWithRandomGem",
+			"text",
+			"high_score",
+			"soundcontroller",
+			"soundcontroller'",
+			"game_on",
+			"numberOfMatches",
+			"==",
+			"offset",
+			"gem_width",
+			"slot_width",
+			"1.0",
+			"mutationRates",
+			"linkMutate",
+			"JumpMutationChance",
+			"evaluatenetwork",
+			"evaluate",
+			"mutationRates",
+			"mutate",
+			"27",
+			"weight",
+			"evaluateNetwor",
+			"evaluate",
+			"math.random",
+			"weight",
+			"getTIle",
+			"closetosteps",
+			"gettile",
+			"closetosteps",
+			"mariox",
+			"closetostep",
+			"gettile",
+			"mariox + dx",
+			"mariox",
+			"closetostep",
+			"closetosteps",
+			"getpositions",
+			"closetoenemy",
+			"getinput",
+			"closeto",
+			"getinputs",
+			"closeto",
+			"sprites",
+			"enemy",
+			"near",
+			"-1",
+			"console.write",
+			"console",
+			"getPositions",
+			"closetoene",
+			"incoming",
+			"weight",
+			"newGene",
+			"evaluateNetwork",
+			"controller",
+			"pool.species",
+			"addToSpecies",
+			"species()",
+			"species",
+			"initializePool",
+			"addToSpecies",
+			"newSpecies",
+			"species",
+			"initializeRun",
+			"initializeRUn",
+			"initializeRUne",
+			"generateNetwork",
+			"neurons",
+			"mutate",
+			"breedChild",
+			"MaxNodes",
+			"MutateConnectionsChance",
+			"incoming",
+			"inputs",
+			"Inputs",
+			"inputs",
+			"BoxRadius",
+			"linkMutate",
+			"mutationRates",
+			"bias",
+			"BiasMutationChance",
+			"bias",
+			"currentFrame",
+			"evaluateNetwork",
+			"Inputs",
+			"network",
+			"evaluateNetwork",
+			"getInputs",
+			"inputs",
+			"inputs[#inputs]",
+			"getTile",
+			"BoxRadius",
+			"[\"x\"]",
+			"getPositions",
+			"TimeoutConstant",
+			"\"x\"",
+			"newPool",
+			"initializePool",
+			"evaluateCurrent",
+			"neuron",
+			"controller",
+			"Population",
+			"addToSpecies",
+			"newPool",
+			"addToSpecies",
+			"basicGenome",
+			"mutate",
+			"Inputs",
+			"basicGenome",
+			"Population",
+			"initializePool",
+			"pool =",
+			"loadFile",
+			"loadPool",
+			"text1",
+			"collectiondemo",
+			"transformpoint"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GEM_OFFSET",
+			"GEM_WIDTH",
+			"SLOT_WIDTH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "LearningWebGLDotCom/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "LearningWebGLDotCom/lesson1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
