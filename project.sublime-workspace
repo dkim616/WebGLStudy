@@ -167,7 +167,7 @@
 			"file": "LearningWebGLDotCom/index.html",
 			"settings":
 			{
-				"buffer_size": 375,
+				"buffer_size": 959,
 				"line_ending": "Windows"
 			}
 		},
@@ -175,7 +175,15 @@
 			"file": "LearningWebGLDotCom/lesson1.js",
 			"settings":
 			{
-				"buffer_size": 2336,
+				"buffer_size": 4041,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "LearningWebGLDotCom/lesson2.js",
+			"settings":
+			{
+				"buffer_size": 4041,
 				"line_ending": "Windows"
 			}
 		}
@@ -379,7 +387,7 @@
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -396,6 +404,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"vertexPositionAttribute",
+			"mvmatrix",
+			"mvmatrixuniform",
+			"umvmatrix",
 			"movementcomponent",
 			"MovementComponent",
 			"movementcomponent",
@@ -519,11 +531,7 @@
 			"Population",
 			"initializePool",
 			"pool =",
-			"loadFile",
-			"loadPool",
-			"text1",
-			"collectiondemo",
-			"transformpoint"
+			"loadFile"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -544,7 +552,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -553,15 +561,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 375,
+						"buffer_size": 959,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								128,
-								128
+								877,
+								877
 							]
 						],
 						"settings":
@@ -581,15 +589,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2336,
+						"buffer_size": 4041,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								407,
-								407
+								751,
+								751
 							]
 						],
 						"settings":
@@ -597,7 +605,36 @@
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "LearningWebGLDotCom/lesson2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3868,
+								3868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1648.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
