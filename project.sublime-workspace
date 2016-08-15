@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"Float",
+				"FLOAT"
+			],
+			[
+				"squareVerte",
+				"squareVertexColorBuffer"
+			],
+			[
+				"square",
+				"squareVertexColorBuffer"
+			],
+			[
+				"triangle",
+				"triangleVertexColorBuffer"
+			],
+			[
+				"squ",
+				"squareVertexColorBuffer"
+			],
+			[
+				"triang",
+				"triangleVertexColorBuffer"
+			],
+			[
 				"view",
 				"viewportHeight"
 			],
@@ -164,26 +188,18 @@
 	"buffers":
 	[
 		{
-			"file": "LearningWebGLDotCom/index.html",
+			"file": "LearningWebGLDotCom/lesson3/index.html",
 			"settings":
 			{
-				"buffer_size": 959,
+				"buffer_size": 919,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "LearningWebGLDotCom/lesson1.js",
+			"file": "LearningWebGLDotCom/lesson3/lesson3.js",
 			"settings":
 			{
-				"buffer_size": 4041,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "LearningWebGLDotCom/lesson2.js",
-			"settings":
-			{
-				"buffer_size": 4041,
+				"buffer_size": 5358,
 				"line_ending": "Windows"
 			}
 		}
@@ -286,10 +302,21 @@
 	"expanded_folders":
 	[
 		"/C/Projects/WebGLStudy",
-		"/C/Projects/WebGLStudy/LearningWebGLDotCom"
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson1",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson2",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson3"
 	],
 	"file_history":
 	[
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson2/index.html",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson2/lesson2.js",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson1/lesson1.js",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson1/index.html",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson2.js",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson1.js",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/index.html",
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/shader-fs.frag",
 		"/C/Projects/WebGLStudy/LearningWebGLDotCom/glMatrix-0.9.5.min.js",
 		"/C/Projects/WebGLStudy/LearningWebGLDotCom/onloadHelper.js",
 		"/C/Projects/Devkit/Rolling/src/entity/GameObject.js",
@@ -404,6 +431,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"alert",
+			"Error",
 			"vertexPositionAttribute",
 			"mvmatrix",
 			"mvmatrixuniform",
@@ -529,9 +558,7 @@
 			"Inputs",
 			"basicGenome",
 			"Population",
-			"initializePool",
-			"pool =",
-			"loadFile"
+			"initializePool"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -552,29 +579,30 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "LearningWebGLDotCom/index.html",
+					"file": "LearningWebGLDotCom/lesson3/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 959,
+						"buffer_size": 919,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								877,
-								877
+								571,
+								571
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -585,47 +613,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "LearningWebGLDotCom/lesson1.js",
-					"semi_transient": false,
+					"file": "LearningWebGLDotCom/lesson3/lesson3.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 4041,
+						"buffer_size": 5358,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								751,
-								751
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 210.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "LearningWebGLDotCom/lesson2.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4041,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3868,
-								3868
+								0,
+								0
 							]
 						],
 						"settings":
@@ -634,7 +634,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1648.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
