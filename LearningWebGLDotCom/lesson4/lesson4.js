@@ -298,6 +298,7 @@ var lesson02 = function() {
 			0,
 			0
 		);
+		// Draw triangles using element array buffer.
 		gl.bindBuffer(gl.ELEMENT_ARRAY_BUFFER, cubeVertexIndexBuffer);
 		setMatrixUniforms();
 		gl.drawElements(gl.TRIANGLES, cubeVertexIndexBuffer.numItems, gl.UNSIGNED_SHORT, 0);
