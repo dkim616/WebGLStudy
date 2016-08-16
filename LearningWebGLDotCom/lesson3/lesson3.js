@@ -206,6 +206,7 @@ var lesson02 = function() {
 
 		mvPushMatrix();
 		mat4.rotate(mvMatrix, degToRad(rSquare), [1, 0, 0]);
+		
 		gl.bindBuffer(gl.ARRAY_BUFFER, squareVertexPositionBuffer);
 		gl.vertexAttribPointer(
 			shaderProgram.vertexPositionAttribute,

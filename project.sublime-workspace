@@ -191,7 +191,7 @@
 			"file": "LearningWebGLDotCom/lesson3/index.html",
 			"settings":
 			{
-				"buffer_size": 919,
+				"buffer_size": 983,
 				"line_ending": "Windows"
 			}
 		},
@@ -199,7 +199,15 @@
 			"file": "LearningWebGLDotCom/lesson3/lesson3.js",
 			"settings":
 			{
-				"buffer_size": 5358,
+				"buffer_size": 7870,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "LearningWebGLDotCom/lesson3/webgl-utils.js",
+			"settings":
+			{
+				"buffer_size": 5770,
 				"line_ending": "Windows"
 			}
 		}
@@ -309,6 +317,7 @@
 	],
 	"file_history":
 	[
+		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson3/webgl-utils.js",
 		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson2/index.html",
 		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson2/lesson2.js",
 		"/C/Projects/WebGLStudy/LearningWebGLDotCom/lesson1/lesson1.js",
@@ -588,15 +597,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 919,
+						"buffer_size": 983,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								571,
-								571
+								195,
+								195
 							]
 						],
 						"settings":
@@ -608,24 +617,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
 					"file": "LearningWebGLDotCom/lesson3/lesson3.js",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5358,
+						"buffer_size": 7870,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								4576,
+								4576
 							]
 						],
 						"settings":
@@ -634,10 +643,40 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1862.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "LearningWebGLDotCom/lesson3/webgl-utils.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5751,
+								5751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1302.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
